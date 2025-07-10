@@ -1,6 +1,5 @@
 <h1 align="left">Hi There 👋, I'm Kerolos Reda</h1>
-I'm a passionate **Front-End Developer** with a strong focus on building clean, responsive, and user-friendly web interfaces. I enjoy turning designs into functional websites and continuously learning new technologies to improve my craft
-<div class="tenor-gif-embed" data-postid="1747207714643625346" data-share-method="host" data-aspect-ratio="1.79104" data-width="100%"><a href="https://tenor.com/view/ngoding-mulu-gif-1747207714643625346">Ngoding Mulu GIF</a>from <a href="https://tenor.com/search/ngoding+mulu-gifs">Ngoding Mulu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<h3 align="left">I'm a passionate Front-End Developer with a strong focus on building clean, responsive, and user-friendly web interfaces. I enjoy turning designs into functional websites and continuously learning new technologies to improve my craft</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerolos-reda&label=Profile%20views&color=0e75b6&style=flat" alt="kerolos-reda" /> </p>
 
