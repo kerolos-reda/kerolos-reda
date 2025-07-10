@@ -1,6 +1,6 @@
 <h1 align="left">Hi There 👋, I'm Kerolos Reda</h1>
 <h3 align="left">I'm a passionate Front-End Developer with a strong focus on building clean, responsive, and user-friendly web interfaces. I enjoy turning designs into functional websites and continuously learning new technologies to improve my craft</h3>
-
+https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerolos-reda&label=Profile%20views&color=0e75b6&style=flat" alt="kerolos-reda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerolos-reda" alt="kerolos-reda" /></a> </p>
