@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Kerolos Reda</h1>
+<h1 align="left">Hi There 👋, I'm Kerolos Reda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div class="tenor-gif-embed" data-postid="1747207714643625346" data-share-method="host" data-aspect-ratio="1.79104" data-width="100%"><a href="https://tenor.com/view/ngoding-mulu-gif-1747207714643625346">Ngoding Mulu GIF</a>from <a href="https://tenor.com/search/ngoding+mulu-gifs">Ngoding Mulu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
