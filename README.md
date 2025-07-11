@@ -34,6 +34,7 @@
 	<img src="https://api.iconify.design/skill-icons:gmail-light.svg?width=55"/>
 </a>
 
+---
 ## 📊 Stats :
 ![GitHub Streak](https://streak-stats.demolab.com?user=kerolos-reda&hide_border=true&card_width=1000&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerolos-reda&hide=contribs,prs&card_width=1000&hide_border=true&theme=dark)
