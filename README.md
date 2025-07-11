@@ -3,7 +3,6 @@
 **`Front-End Developer`**<br/>
 <h3 align="left">I'm a passionate Front-End Developer with a strong focus on building clean, responsive, and user-friendly web interfaces. I enjoy turning designs into functional websites and continuously learning new technologies to improve my craft</h3>
 
----
 ## 🧰 Languages and Tools :
 ### - Programming and Markup Languages :
 ![HTML5](https://api.iconify.design/skill-icons:html.svg?width=55)
@@ -27,7 +26,6 @@
 ![Vscode](https://api.iconify.design/skill-icons:vscode-dark.svg?width=55)
 ![NPM](https://api.iconify.design/skill-icons:npm-dark.svg?width=55)
 
----
 ## 🌍 Reach me on :
 <a href="https://www.linkedin.com/in/kerolos-reda-61ab33373/">
 	<img src="https://api.iconify.design/skill-icons:linkedin.svg?width=55"/>
@@ -36,12 +34,7 @@
 	<img src="https://api.iconify.design/skill-icons:gmail-light.svg?width=55"/>
 </a>
 
----
 ## 📊 Stats :
 ![GitHub Streak](https://streak-stats.demolab.com?user=kerolos-reda&hide_border=true&card_width=1000&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerolos-reda&hide=contribs,prs&card_width=1000&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerolos-reda&layout=compact&card_width=1000&hide_border=true&theme=dark)
-[![](https://visitcount.itsvg.in/api?id=kerolos-reda&icon=2&color=0)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
