@@ -5,6 +5,11 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kerolos.reda.makram@gmail.com)
 <h3 align="left">I'm a passionate Front-End Developer with a strong focus on building clean, responsive, and user-friendly web interfaces. I enjoy turning designs into functional websites and continuously learning new technologies to improve my craft</h3>
 
+![HTML5](https://api.iconify.design/skill-icons:html.svg?width=60)
+![CSS3](https://api.iconify.design/skill-icons:css.svg?width=60)
+![Javascript](https://api.iconify.design/skill-icons:javascript.svg?width=60)
+![Typescript](https://api.iconify.design/skill-icons:typescript.svg?width=60)
+
 💻 Languages & markup:<br/>
 <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
