@@ -1,6 +1,6 @@
 <h1 align="left">Hi There 👋, I'm Kerolos Reda</h1>
 
-**`Front-End Developer`** | **`email : kerolos.reda.makram@gmail.com`**<br/>
+**`Front-End Developer`**<br/>
 <h3 align="left">I'm a passionate Front-End Developer with a strong focus on building clean, responsive, and user-friendly web interfaces. I enjoy turning designs into functional websites and continuously learning new technologies to improve my craft</h3>
 
 ---
@@ -29,6 +29,12 @@
 
 ---
 ## 🌍 Reach me on :
+<a href="https://www.linkedin.com/in/kerolos-reda-61ab33373/">
+	<img src="https://api.iconify.design/skill-icons:linkedin.svg?width=55"/>
+</a>
+<a href="mailto:kerolos.reda.makram@gmail.com">
+	<img src="https://api.iconify.design/skill-icons:gmail-light.svg?width=55"/>
+</a>
 ---
 ## 📊 Stats :
 ![GitHub Streak](https://streak-stats.demolab.com?user=kerolos-reda&hide_border=true&card_width=1000&theme=dark)
