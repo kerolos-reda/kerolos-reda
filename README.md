@@ -11,7 +11,7 @@
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=kerolos-reda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=kerolos-reda&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 [![](https://visitcount.itsvg.in/api?id=kerolos-reda&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
