@@ -3,6 +3,7 @@
 **`Front-End Developer`** | **`email : kerolos.reda.makram@gmail.com`**<br/>
 <h3 align="left">I'm a passionate Front-End Developer with a strong focus on building clean, responsive, and user-friendly web interfaces. I enjoy turning designs into functional websites and continuously learning new technologies to improve my craft</h3>
 
+---
 ## Languages and Tools :
 ### - Programming and Markup Languages :
 ![HTML5](https://api.iconify.design/skill-icons:html.svg?width=55)
