@@ -19,8 +19,10 @@
 ![Markdown](https://api.iconify.design/skill-icons:markdown-dark.svg?width=60)
 ![React.js](https://api.iconify.design/skill-icons:react-dark.svg?width=60)
 ![Vite](https://api.iconify.design/skill-icons:vite-dark.svg?width=60)
-![Postman](https://api.iconify.design/skill-icons:postman-dark.svg?width=60)
+![Postman](https://api.iconify.design/skill-icons:postman.svg?width=60)
 ![Redux](https://api.iconify.design/skill-icons:redux.svg?width=60)
+![Vscode](https://api.iconify.design/skill-icons:vscode-dark.svg?width=60)
+![NPM](https://api.iconify.design/skill-icons:npm-dark.svg?width=60)
 
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=kerolos-reda&hide_border=true&card_width=1000&theme=dark)
