@@ -3,21 +3,21 @@
 **`Front-End Developer`** | **`email : kerolos.reda.makram@gmail.com`**<br/>
 <h3 align="left">I'm a passionate Front-End Developer with a strong focus on building clean, responsive, and user-friendly web interfaces. I enjoy turning designs into functional websites and continuously learning new technologies to improve my craft</h3>
 
-> ## Languages and Tools :
-### - Programming and Markup Languages
+## Languages and Tools :
+### - Programming and Markup Languages :
 ![HTML5](https://api.iconify.design/skill-icons:html.svg?width=55)
 ![CSS3](https://api.iconify.design/skill-icons:css.svg?width=55)
 ![Javascript](https://api.iconify.design/skill-icons:javascript.svg?width=55)
 ![Typescript](https://api.iconify.design/skill-icons:typescript.svg?width=55)
 ![Markdown](https://api.iconify.design/skill-icons:markdown-dark.svg?width=55)
-### - Frameworks and Libraries
+### - Frameworks and Libraries :
 ![React.js](https://api.iconify.design/skill-icons:react-dark.svg?width=55)
 ![Bootstrap](https://api.iconify.design/skill-icons:bootstrap.svg?width=55)
 ![SASS](https://api.iconify.design/skill-icons:sass.svg?width=55)
 ![Redux](https://api.iconify.design/skill-icons:redux.svg?width=55)
-### - Databases and Cloud Hosting
+### - Databases and Cloud Hosting :
 ![Github](https://api.iconify.design/skill-icons:github-dark.svg?width=55)
-### - Software and Tools
+### - Software and Tools :
 ![Git](https://api.iconify.design/skill-icons:git.svg?width=55)
 ![Linux](https://api.iconify.design/skill-icons:linux-light.svg?width=55)
 ![Windows](https://api.iconify.design/skill-icons:windows-dark.svg?width=55)
