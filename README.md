@@ -9,7 +9,10 @@
 ![CSS3](https://api.iconify.design/skill-icons:css.svg?width=60)
 ![Javascript](https://api.iconify.design/skill-icons:javascript.svg?width=60)
 ![Typescript](https://api.iconify.design/skill-icons:typescript.svg?width=60)
-![git](https://api.iconify.design/skill-icons:git.svg?width=60)
+![Git](https://api.iconify.design/skill-icons:git.svg?width=60)
+![Github](https://api.iconify.design/skill-icons:github-dark.svg?width=60)
+![](https://api.iconify.design/skill-icons:github-light.svg?width=60)
+
 
 💻 Languages & markup:<br/>
 <br/>
