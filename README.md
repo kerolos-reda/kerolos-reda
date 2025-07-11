@@ -1,6 +1,6 @@
 <h1 align="left">Hi There 👋, I'm Kerolos Reda</h1>
 
-<p align="left">`Front-End Developer`</p>  **`kerolos.reda.makram@gmail.com`**<br/>
+**`Front-End Developer`** **`kerolos.reda.makram@gmail.com`**<br/>
 <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerolos-reda-61ab33373/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kerolos.reda.makram@gmail.com)
