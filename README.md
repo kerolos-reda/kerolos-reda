@@ -12,7 +12,7 @@
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=kerolos-reda&hide_border=true&card_width=1000&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerolos-reda&hide=contribs,prs&card_width=1000&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=1000&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerolos-reda&layout=compact&card_width=1000&hide_border=true&theme=dark)
 [![](https://visitcount.itsvg.in/api?id=kerolos-reda&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
