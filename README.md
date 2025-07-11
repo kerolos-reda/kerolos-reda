@@ -1,4 +1,5 @@
 <h1 align="left">Hi There 👋, I'm Kerolos Reda</h1>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerolos-reda-61ab33373/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kerolos.reda.makram@gmail.com) <br/>
 <h3 align="left">I'm a passionate Front-End Developer with a strong focus on building clean, responsive, and user-friendly web interfaces. I enjoy turning designs into functional websites and continuously learning new technologies to improve my craft</h3>
 
