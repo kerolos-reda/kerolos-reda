@@ -11,7 +11,7 @@
 
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=kerolos-reda&hide_border=true&card_width=1000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerolos-redaa&layout=compact&card_width=1000k&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerolos-reda&layout=compact&card_width=1000k&hide_border=true)
 [![](https://visitcount.itsvg.in/api?id=kerolos-reda&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
