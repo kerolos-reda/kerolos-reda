@@ -4,15 +4,14 @@
 <h3 align="left">I'm a passionate Front-End Developer with a strong focus on building clean, responsive, and user-friendly web interfaces. I enjoy turning designs into functional websites and continuously learning new technologies to improve my craft</h3>
 
 ## Languages and Tools :<br/>
-![HTML5](https://api.iconify.design/skill-icons:html.svg?width=60)
-![CSS3](https://api.iconify.design/skill-icons:css.svg?width=60)
-![Javascript](https://api.iconify.design/skill-icons:javascript.svg?width=60)
-![Typescript](https://api.iconify.design/skill-icons:typescript.svg?width=60)
+![HTML5](https://api.iconify.design/skill-icons:html.svg?width=50)
+![CSS3](https://api.iconify.design/skill-icons:css.svg?width=50)
+![Javascript](https://api.iconify.design/skill-icons:javascript.svg?width=50)
+![Typescript](https://api.iconify.design/skill-icons:typescript.svg?width=50)
 ![Git](https://api.iconify.design/skill-icons:git.svg?width=60)
 ![Github](https://api.iconify.design/skill-icons:github-dark.svg?width=60)
 ![Linux](https://api.iconify.design/skill-icons:linux-light.svg?width=60)
 ![Windows](https://api.iconify.design/skill-icons:windows-dark.svg?width=60)
-![](https://api.iconify.design/skill-icons:windows-light.svg?width=60)
 ![SASS](https://api.iconify.design/skill-icons:sass.svg?width=60)
 ![Bootstrap](https://api.iconify.design/skill-icons:bootstrap.svg?width=60)
 ![Markdown](https://api.iconify.design/skill-icons:markdown-dark.svg?width=60)
