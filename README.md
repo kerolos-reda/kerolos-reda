@@ -6,18 +6,15 @@
 ## 🧰 Languages and Tools :
  <div align="center">
 	 
-### <-- Programming and Markup Languages -->
 ![HTML5](https://api.iconify.design/skill-icons:html.svg?width=55)
 ![CSS3](https://api.iconify.design/skill-icons:css.svg?width=55)
 ![Javascript](https://api.iconify.design/skill-icons:javascript.svg?width=55)
 ![Typescript](https://api.iconify.design/skill-icons:typescript.svg?width=55)
 ![Markdown](https://api.iconify.design/skill-icons:markdown-dark.svg?width=55)
-### <-- Frameworks and Libraries -->
 ![React.js](https://api.iconify.design/skill-icons:react-dark.svg?width=55)
 ![Bootstrap](https://api.iconify.design/skill-icons:bootstrap.svg?width=55)
 ![SASS](https://api.iconify.design/skill-icons:sass.svg?width=55)
 ![Redux](https://api.iconify.design/skill-icons:redux.svg?width=55)
-### <-- Software and Tools -->
 ![Git](https://api.iconify.design/skill-icons:git.svg?width=55)
 ![Linux](https://api.iconify.design/skill-icons:linux-light.svg?width=55)
 ![Windows](https://api.iconify.design/skill-icons:windows-dark.svg?width=55)
