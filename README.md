@@ -37,5 +37,5 @@
 ---
 
 ## 📊Stats📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerolos-reda&layout=compact&theme=dark&card_width=100-1000&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerolos-reda&layout=compact&theme=dark&hide_border=true)
 </div>
