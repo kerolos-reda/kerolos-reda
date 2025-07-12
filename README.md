@@ -24,6 +24,8 @@
 ![NPM](https://api.iconify.design/skill-icons:npm-dark.svg?width=55)
 ![Github](https://api.iconify.design/skill-icons:github-dark.svg?width=55)
 
+---
+
 ## 🌍Reach me on🌍
 <a href="https://www.linkedin.com/in/kerolos-reda-61ab33373/">
 	<img src="https://api.iconify.design/skill-icons:linkedin.svg?width=55"/>
@@ -31,6 +33,8 @@
 <a href="mailto:kerolos.reda.makram@gmail.com">
 	<img src="https://api.iconify.design/skill-icons:gmail-light.svg?width=55"/>
 </a>
+
+---
 
 ## 📊Stats📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerolos-reda&layout=compact&theme=dark&hide_border=true)
