@@ -5,7 +5,7 @@
 
  <div align="center">
 	 
-## 🔥Languages and Tools🔥
+## 🔥Languages & Tools🔥
 ![HTML5](https://api.iconify.design/skill-icons:html.svg?width=55)
 ![CSS3](https://api.iconify.design/skill-icons:css.svg?width=55)
 ![Javascript](https://api.iconify.design/skill-icons:javascript.svg?width=55)
