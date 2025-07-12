@@ -27,7 +27,6 @@
 ---
 
 ## 🌍Reach me on🌍
-Click here =>
 <a href="https://www.linkedin.com/in/kerolos-reda-61ab33373/">
 	<img src="https://api.iconify.design/skill-icons:linkedin.svg?width=55"/>
 </a>
@@ -35,10 +34,8 @@ Click here =>
 	<img src="https://api.iconify.design/skill-icons:gmail-light.svg?width=55"/>
 </a>
 
-<= Click here
-
 ---
 
 ## 📊Stats📊
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
