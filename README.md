@@ -5,7 +5,7 @@
 
  <div align="center">
 	 
-## 🔥Languages & Tools🔥
+## 🔥Tech Stack🔥
 ![HTML5](https://api.iconify.design/skill-icons:html.svg?width=55)
 ![CSS3](https://api.iconify.design/skill-icons:css.svg?width=55)
 ![Javascript](https://api.iconify.design/skill-icons:javascript.svg?width=55)
@@ -24,13 +24,14 @@
 ![NPM](https://api.iconify.design/skill-icons:npm-dark.svg?width=55)
 ![Github](https://api.iconify.design/skill-icons:github-dark.svg?width=55)
 
-</div>
 
 
-## 🌍 Reach me on :
+## 🌍Reach me on🌍
 <a href="https://www.linkedin.com/in/kerolos-reda-61ab33373/">
-	<img src="https://api.iconify.design/skill-icons:linkedin.svg?width=55"/>
+	<img src="https://api.iconify.design/skill-icons:linkedin.svg?width=55&height=10"/>
 </a>
 <a href="mailto:kerolos.reda.makram@gmail.com">
 	<img src="https://api.iconify.design/skill-icons:gmail-light.svg?width=55"/>
 </a>
+
+</div>
