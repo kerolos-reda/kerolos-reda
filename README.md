@@ -12,17 +12,14 @@
 ![Javascript](https://api.iconify.design/skill-icons:javascript.svg?width=55)
 ![Typescript](https://api.iconify.design/skill-icons:typescript.svg?width=55)
 ![Markdown](https://api.iconify.design/skill-icons:markdown-dark.svg?width=55)
-	
-</div>
-
-### - Frameworks and Libraries :
+### <-- Frameworks and Libraries -->
 ![React.js](https://api.iconify.design/skill-icons:react-dark.svg?width=55)
 ![Bootstrap](https://api.iconify.design/skill-icons:bootstrap.svg?width=55)
 ![SASS](https://api.iconify.design/skill-icons:sass.svg?width=55)
 ![Redux](https://api.iconify.design/skill-icons:redux.svg?width=55)
-### - Databases and Cloud Hosting :
+### <-- Databases and Cloud Hosting -->
 ![Github](https://api.iconify.design/skill-icons:github-dark.svg?width=55)
-### - Software and Tools :
+### <-- Software and Tools -->
 ![Git](https://api.iconify.design/skill-icons:git.svg?width=55)
 ![Linux](https://api.iconify.design/skill-icons:linux-light.svg?width=55)
 ![Windows](https://api.iconify.design/skill-icons:windows-dark.svg?width=55)
@@ -30,6 +27,9 @@
 ![Postman](https://api.iconify.design/skill-icons:postman.svg?width=55)
 ![Vscode](https://api.iconify.design/skill-icons:vscode-dark.svg?width=55)
 ![NPM](https://api.iconify.design/skill-icons:npm-dark.svg?width=55)
+
+</div>
+
 
 ## 🌍 Reach me on :
 <a href="https://www.linkedin.com/in/kerolos-reda-61ab33373/">
