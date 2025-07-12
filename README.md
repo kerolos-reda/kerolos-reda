@@ -34,4 +34,6 @@
 	<img src="https://api.iconify.design/skill-icons:gmail-light.svg?width=55"/>
 </a>
 
+## 📊Stats📊
+
 </div>
