@@ -5,12 +5,14 @@
 
 ## 🧰 Languages and Tools :
 <div align="center">
+	
 	### - Programming and Markup Languages :
 	![HTML5](https://api.iconify.design/skill-icons:html.svg?width=55)
 	![CSS3](https://api.iconify.design/skill-icons:css.svg?width=55)
 	![Javascript](https://api.iconify.design/skill-icons:javascript.svg?width=55)
 	![Typescript](https://api.iconify.design/skill-icons:typescript.svg?width=55)
 	![Markdown](https://api.iconify.design/skill-icons:markdown-dark.svg?width=55)
+	
 </div>
 
 ### - Frameworks and Libraries :
