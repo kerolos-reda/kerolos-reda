@@ -28,7 +28,7 @@
 
 ## 🌍Reach me on🌍
 <a href="https://www.linkedin.com/in/kerolos-reda-61ab33373/">
-	<img src="https://api.iconify.design/skill-icons:linkedin.svg?width=55&height=10"/>
+	<img src="https://api.iconify.design/skill-icons:linkedin.svg?width=55"/>
 </a>
 <a href="mailto:kerolos.reda.makram@gmail.com">
 	<img src="https://api.iconify.design/skill-icons:gmail-light.svg?width=55"/>
